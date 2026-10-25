@@ -4,7 +4,6 @@
 
 int main() {
 
-int exit = 0;
 int choice = 0;
 int num1, num2 = 0;
 
@@ -13,7 +12,7 @@ printf("=================================\n");
 printf("        CLI Calculator\n");
 printf("=================================\n");
 printf("                                 \n");
-printf("       version: 1.0.0\n");
+printf("       version: 1.0.1\n");
 printf("                                 \n");
 printf("Select an operation:\n");
 printf("1. Addition\n");
