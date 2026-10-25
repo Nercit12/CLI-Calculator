@@ -1,7 +1,7 @@
 
-# C Calculator
+# CLI Calculator
 
-My first C programming project.
+First C project to learn some simple stuff.
 
 ## Features
 - Addition
